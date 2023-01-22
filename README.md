@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **saelalok001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aqgbMI8zM9NfWUoYQbYcBv5cxCLdo1BN/view?usp=share_link](https://drive.google.com/file/d/1aqgbMI8zM9NfWUoYQbYcBv5cxCLdo1BN/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mkwY_QiKlVbZ-54rtEx3NKZ9VCDzIy29/view?usp=sharing]([https://drive.google.com/file/d/1aqgbMI8zM9NfWUoYQbYcBv5cxCLdo1BN/view?usp=share_link](https://drive.google.com/file/d/1mkwY_QiKlVbZ-54rtEx3NKZ9VCDzIy29/view?usp=sharing))
 
 <h3 align="Center">Connect with me:</h3>
 <p align="Center">
