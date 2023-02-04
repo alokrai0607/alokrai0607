@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img style="height: 40px;" src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="smile Emoji">, I'm Alok Kumar Rai</h1>
     <h3 align="center">An Aspiring Java Backend Developer</h3>
 
-<p align="left"> <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Alokkumarrai-views" /> </p>
+<p align="Center"> <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Alokkumarrai-views" /> </p>
 
 <img align="right" style="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
 
@@ -12,14 +12,14 @@
 - 👯 I’m looking to collaborate on **Interesting projects using Spring Framework**
 
  <!-- Portfolio -->
-- 👨‍💻 Checkout my [Portfolio](https://mayurisamanta.github.io/) &nbsp; 
+- 👨‍💻 Checkout my [Portfolio](https://alokrai0607.github.io/) &nbsp; 
 
 <!-- Resume -->
--  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/1nPPi0dv9CtOF52kNHB4yTodO2oHTyEzU/view?usp=sharing) &nbsp; 
+-  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/1SLYnxt4GVHtiakFZbYaVF1paGgIbXn4T/view?usp=sharing) &nbsp; 
 
 - 💬 Ask me about **Coding and Art because that's what fascinates me**
 
-- 📫 How to reach me **samantamayuri@gmail.com**
+- 📫 How to reach me **saelalok001@gmail.com**
 
 - ⚡ Fun fact **I think I am creative**
 
@@ -29,7 +29,7 @@
 
 <p align="left">
   <a  align="left" href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mayurisamanta&column=7&theme=default" />
+    <img src="https://github-profile-trophy.vercel.app/?username=alokrai0607" alt="alokrai0607" />
   </a>
 </p>
 
