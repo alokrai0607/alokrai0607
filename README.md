@@ -1,32 +1,72 @@
-<h1 align="center">Hi 👋, I'm Alok Rai</h1>
-<h3 align="center">A passionate Backend Java developer from India</h3>
+<h1 align="center">Hi <img style="height: 40px;" src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="smile Emoji">, I'm Alok Kumar Rai</h1>
+    <h3 align="center">An Aspiring Java developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alokrai0607&label=Profile%20views&color=0e75b6&style=flat" alt="alokrai0607" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurisamanta&label=Profile%20views&color=0e75b6&style=flat" alt="mayurisamanta-views" /> </p>
 
-<p align="Center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokrai0607" alt="alokrai0607" /></a> </p>
- 
- <h3 align="left">about me:</h3>
-- 🔭 I’m currently working on [E-mart](https://sparkling-macaron-85cc95.netlify.app/)
+<img align="right" style="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
 
-- 🌱 I’m currently learning **Java,Springboot,DSA**
+- 🔭 I’m currently a student at Masai **School, Bengaluru**
 
-- 💬 Ask me about **Html,CSS,JavaScript,DSA,Java etc.**
+- 🌱 I’m currently learning **Spring Framework**
 
-- 📫 How to reach me **saelalok001@gmail.com**
+- 👯 I’m looking to collaborate on **Interesting projects using Spring Framework**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mkwY_QiKlVbZ-54rtEx3NKZ9VCDzIy29/view?usp=sharing]([https://drive.google.com/file/d/1aqgbMI8zM9NfWUoYQbYcBv5cxCLdo1BN/view?usp=share_link](https://drive.google.com/file/d/1mkwY_QiKlVbZ-54rtEx3NKZ9VCDzIy29/view?usp=sharing))
+ <!-- Portfolio -->
+- 👨‍💻 Checkout my [Portfolio](https://mayurisamanta.github.io/) &nbsp; 
 
-<h3 align="Center">Connect with me:</h3>
-<p align="Center">
-<a href="https://linkedin.com/in/linkedin.com/in/alok-rai-004b35142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/alok-rai-004b35142" height="30" width="40" /></a>
-<a href="https://instagram.com/alokrai6794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alokrai6794" height="30" width="40" /></a>
+<!-- Resume -->
+-  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/1nPPi0dv9CtOF52kNHB4yTodO2oHTyEzU/view?usp=sharing) &nbsp; 
+
+- 💬 Ask me about **Coding and Art because that's what fascinates me**
+
+- 📫 How to reach me **samantamayuri@gmail.com**
+
+- ⚡ Fun fact **I think I am creative**
+
+- 👯 **Love to connect with people and Know their stories**
+<br>
+
+
+<p align="left">
+  <a  align="left" href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mayurisamanta&column=7&theme=default" />
+  </a>
 </p>
 
-<h3 align="Center">Languages and Tools:</h3>
-<p align="Center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokrai0607&show_icons=true&locale=en&layout=compact" alt="alokrai0607" /></p>
+# 🌐 Socials:
+<p align="left">
+<a href="https://linkedin.com/in/mayuri-samanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayuri-samanta" height="50" width="60"  style="margin-right: 10px;"/></a>
+<a href="https://twitter.com/mayuri_samanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayuri_samanta" height="50" width="60" style="margin-right: 10px;" /></a>  
+<a href="https://auth.geeksforgeeks.org/user/mayurisamanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/dev_mriganka" height="50" width="60" style="margin-right: 10px;"  /></a>
+<a href="https://www.hackerrank.com/samantamayuri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samantamayuri" height="50" width="60" style="margin-right: 10px;"/></a>
+<a href="https://www.leetcode.com/mayurisamanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayurisamanta" height="50" width="60" style="margin-right: 10px;"/></a>
+<a href="https://www.youtube.com/@mayurispeaks" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayurispeaks" height="50" width="60" style="margin-right: 10px;"/></a>    
+<a href="https://www.quora.com/profile/Mayuri-Samanta-1" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="mayuriSamanta" height="50" width="60" style="margin-right: 10px;"/></a>        
+<a href="https://fb.com/mayurisamanta10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayurisamanta10" height="50" width="60" style="margin-right: 10px;"/></a>
+<a href="https://instagram.com/mayurisamanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayurisamanta" height="50" width="60" style="margin-right: 10px;"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokrai0607&show_icons=true&locale=en" alt="alokrai0607" /></p>
+# 💻 Tech Stack:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&" alt="alokrai0607" /></p>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,maven,aws,hibernate,js,html,css,eclipse,git,github,netlify,vscode)](https://skillicons.dev)
+
+# 📊 GitHub Stats:
+<p align="left">
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayurisamanta&show_icons=true&theme=default&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurisamanta&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurisamanta&theme=default&count_private=true" align="center" />
+</p>
+
+
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
+
+
+<img style="width: 100%;" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
+
+<h3 style="text-align: center;">Stay Happy, Stay Motivated  <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
+
