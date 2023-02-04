@@ -17,7 +17,7 @@
 <!-- Resume -->
 -  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/1SLYnxt4GVHtiakFZbYaVF1paGgIbXn4T/view?usp=sharing) &nbsp; 
 
-- 💬 Ask me about **Coding and Art because that's what fascinates me**
+- 💬 Ask me about **Coding because that's what fascinates me**
 
 - 📫 How to reach me **saelalok001@gmail.com**
 
@@ -27,7 +27,7 @@
 <br>
 
 
-<p align="left">
+<p align="Center">
   <a  align="left" href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=alokrai0607" alt="alokrai0607" />
   </a>
@@ -37,9 +37,9 @@
 
 # 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/mayuri-samanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayuri-samanta" height="50" width="60"  style="margin-right: 10px;"/></a>
-<a href="https://twitter.com/mayuri_samanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayuri_samanta" height="50" width="60" style="margin-right: 10px;" /></a>  
-<a href="https://auth.geeksforgeeks.org/user/mayurisamanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/dev_mriganka" height="50" width="60" style="margin-right: 10px;"  /></a>
+<a href="https://www.linkedin.com/in/alok-rai-004b35142/" target="_blank"><img align="center" src="https://github.com/alokrai0607" alt="Alok-Rai-Github" height="50" width="60"  style="margin-right: 10px;"/></a>
+ 
+alt="https://auth.geeksforgeeks.org/user/dev_mriganka" height="50" width="60" style="margin-right: 10px;"  /></a>
 <a href="https://www.hackerrank.com/samantamayuri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samantamayuri" height="50" width="60" style="margin-right: 10px;"/></a>
 <a href="https://www.leetcode.com/mayurisamanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayurisamanta" height="50" width="60" style="margin-right: 10px;"/></a>
 <a href="https://www.youtube.com/@mayurispeaks" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayurispeaks" height="50" width="60" style="margin-right: 10px;"/></a>    
