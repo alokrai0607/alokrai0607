@@ -50,19 +50,20 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,maven,aws,hibernate,js,html,css,eclipse,git,github,netlify,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Status:
-[https://drive.google.com/file/d/1mkwY_QiKlVbZ-54rtEx3NKZ9VCDzIy29/view?usp=sharing]([https://drive.google.com/file/d/1aqgbMI8zM9NfWUoYQbYcBv5cxCLdo1BN/view?usp=share_link](https://drive.google.com/file/d/1mkwY_QiKlVbZ-54rtEx3NKZ9VCDzIy29/view?usp=sharing))
+<p align="left">
 
-<h3 align="Center">Connect with me:</h3>
-<p align="Center">
-<a href="https://linkedin.com/in/linkedin.com/in/alok-rai-004b35142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/alok-rai-004b35142" height="30" width="40" /></a>
-<a href="https://instagram.com/alokrai6794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alokrai6794" height="30" width="40" /></a>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alokrai0607&show_icons=true&theme=default&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokrai0607&theme=default&count_private=true" align="center" />
 </p>
+
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 
-<img style="width: 100%;" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
+<img style="width: 100%;" src="https://thumbs.dreamstime.com/b/software-development-word-cloud-concept-grey-background-88535408.jpg" alt="">
 
 <h3 style="text-align: center;">Stay Happy, Stay Motivated  <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
 
