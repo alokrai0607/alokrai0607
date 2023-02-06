@@ -53,8 +53,8 @@
 <p align="left">
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alokrai0607&show_icons=true&theme=default&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=default" />
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alokrai0607&show_icons=true&theme=default&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=default" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokrai0607&theme=default&count_private=true" align="center" />
 </p>
 
