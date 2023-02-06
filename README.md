@@ -63,7 +63,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 
-<img style="width: 100%;" src="https://thumbs.dreamstime.com/b/software-development-word-cloud-concept-grey-background-88535408.jpg" alt="">
+
 
 <h3 style="text-align: center;">Stay Happy, Stay Motivated  <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
 
