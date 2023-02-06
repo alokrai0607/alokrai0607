@@ -60,7 +60,7 @@
 
 
 # ✍️ Random Dev Quote
-![]()
+![](https://w7.pngwing.com/pngs/718/323/png-transparent-java-computer-icons-java-miscellaneous-text-symbol-thumbnail.png)
 
 
 
