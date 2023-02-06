@@ -60,7 +60,7 @@
 
 
 # ✍️ Random Dev Quote
-![](https://w7.pngwing.com/pngs/718/323/png-transparent-java-computer-icons-java-miscellaneous-text-symbol-thumbnail.png)
+![](https://browserstack.wpenginepowered.com/wp-content/uploads/2022/07/Principles-of-Design-Thinking-700x390.png)
 
 
 
