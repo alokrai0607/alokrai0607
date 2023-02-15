@@ -33,7 +33,7 @@
  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://tse3.mm.bing.net/th?id=OIP.-UxRkS1XKkPRaBTG5aGVSAHaHa&pid=Api&P=0" alt="git" width="40" height="40" gap="250px"/> </a>
 </p>
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alokrai0607&show_icons=true&theme=algolia&count_private=true"  alt="alokrai0607" /></p>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokrai0607&&theme=algolia" alt="alokrai0607"/></p>
+<!-- <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokrai0607&&theme=algolia" alt="alokrai0607"/></p> -->
 </a> </p>
 <p align="left">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=alokrai0607&theme=algolia" alt="alokrai0607" />
