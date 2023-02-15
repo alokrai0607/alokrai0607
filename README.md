@@ -17,12 +17,14 @@
 
 <!-- <h3 align="left">Follow me</h3> -->
  ## 🌐 Socials:
+ <p align="left">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-rai-004b35142/)
  <a href="https://twitter.com/@alokrai0607" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Alok_Rai_Twitter" height="50" width="60" style="margin-right: 10px;" /></a>  
 <a href="https://www.hackerrank.com/saelalok001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerrankAlok" height="50" width="60" style="margin-right: 10px;"/></a>
 <a href="https://leetcode.com/saelalok001/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AlokRaiLeetCode" height="50" width="60" style="margin-right: 10px;"/></a>        
 <a href="https://www.facebook.com/profile.php?id=100041299964391" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Alok_RaiFB" height="50" width="60" style="margin-right: 10px;"/></a>
 <a href="https://www.instagram.com/alokrai6794/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AlokRai_Insta" height="50" width="60" style="margin-right: 10px;"/></a>
+ </p>
  
 <h3 align="left">Programing Languages ,Tools & Databases:</h3>
 <br/>
@@ -39,4 +41,14 @@
 <p align="left">
   <img align="center" src=""https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=default"" alt="alokrai0607" />
 </p>
+
+# ✍️ Random Dev Quote
+![](https://browserstack.wpenginepowered.com/wp-content/uploads/2022/07/Principles-of-Design-Thinking-700x390.png)
+
+
+
+
+<h3 style="text-align: center;">Stay Happy, Stay Motivated  <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
+
+
  
