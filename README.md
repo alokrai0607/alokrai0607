@@ -39,7 +39,7 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=alokrai0607" alt="alokrai0607" />
 </p>
 <p align="left">
-  <img align="center" src=""https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=default"" alt="alokrai0607" />
+  <img align="center" src=""https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&&theme=algolia" alt="alokrai0607" />
 </p>
 
 # ✍️ Random Dev Quote
