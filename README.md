@@ -38,9 +38,10 @@
 <p align="left">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=alokrai0607" alt="alokrai0607" />
 </p>
-<p align="left">
-  <img align="center" src=""https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&&theme=algolia" alt="alokrai0607" />
-</p>
+<!-- <p align="left">
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=algolia"/> 
+</p> -->
+
 
 # ✍️ Random Dev Quote
 ![](https://browserstack.wpenginepowered.com/wp-content/uploads/2022/07/Principles-of-Design-Thinking-700x390.png)
