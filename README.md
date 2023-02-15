@@ -18,7 +18,7 @@
 <!-- <h3 align="left">Follow me</h3> -->
  ## 🌐 Socials:
  <p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-rai-004b35142/)
+<a href="https://www.linkedin.com/in/alok-rai-004b35142/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alok-Rai-Linkedin" height="50" width="60"  style="margin-right: 10px;"/></a>
  <a href="https://twitter.com/@alokrai0607" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Alok_Rai_Twitter" height="50" width="60" style="margin-right: 10px;" /></a>  
 <a href="https://www.hackerrank.com/saelalok001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerrankAlok" height="50" width="60" style="margin-right: 10px;"/></a>
 <a href="https://leetcode.com/saelalok001/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AlokRaiLeetCode" height="50" width="60" style="margin-right: 10px;"/></a>        
@@ -38,9 +38,9 @@
 <p align="left">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=alokrai0607" alt="alokrai0607" />
 </p>
-<!-- <p align="left">
+<p align="left">
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=algolia"/> 
-</p> -->
+</p>
 
 
 # ✍️ Random Dev Quote
