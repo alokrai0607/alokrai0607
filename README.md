@@ -1,69 +1,42 @@
-<h1 align="center">Hi <img style="height: 40px;" src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="smile Emoji">, I'm Alok Kumar Rai</h1>
-    <h3 align="center">An Aspiring Java Backend Developer</h3>
+<h1 align="center">Hi 👋, I'm Alok Kumar Rai</h1>
 
-<p align="Center"> <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Alokkumarrai-views" /> </p>
+<h3 align="center">Hello! My name is Alok and I am a Passionate Full Stack Web Developer, with strong administrative and problem-solving skills.</h3>
 
-<img align="right" style="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
-
-- 🔭 I’m currently a student at Masai **School, Bengaluru**
-
-- 🌱 I’m currently learning **Spring Framework**
-
-- 👯 I’m looking to collaborate on **Interesting projects using Spring Framework**
-
- <!-- Portfolio -->
-- 👨‍💻 Checkout my [Portfolio](http://%20alokrai0607.github.io/) &nbsp; 
-
-<!-- Resume -->
--  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/1SLYnxt4GVHtiakFZbYaVF1paGgIbXn4T/view?usp=sharing) &nbsp; 
-
-- 💬 Ask me about **Coding because that's what fascinates me**
-
-- 📫 How to reach me **saelalok001@gmail.com**
-
-- ⚡ Fun fact **I think I am creative**
-
-- 👯 **Love to connect with people and Know their stories**
-<br>
+<div margin="auto" hight="300px" border="1px" solid "red"><img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width=400/>
+ 
+</div>
 
 
-<p align="Center">
-  <a  align="left" href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alokrai0607" alt="alokrai0607" />
-  </a>
-</p>
 
-<br>
+- 🌱 I’m currently learning **Java Backend Development at Masai School**
+- 💬 Ask me about  **HTML,CSS,JavaScript,Java,SpringBoot,SQL,JDBC,Spring Boot,Maven**
+- 👨‍💻 All of my projects are available at  **<a href="https://alokrai0607.github.io/">Protfolio</a>**
 
-# 🌐 Socials:
-<p align="left">
-<a href="https://www.linkedin.com/in/alok-rai-004b35142/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alok-Rai-Linkedin" height="50" width="60"  style="margin-right: 10px;"/></a>
-<a href="https://twitter.com/@alokrai0607" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Alok_Rai_Twitter" height="50" width="60" style="margin-right: 10px;" /></a>  
+- 📫 How to reach me `saelalok001@gmail.com`
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1SLYnxt4GVHtiakFZbYaVF1paGgIbXn4T/view?usp=sharing">Resume</a>
+
+<!-- <h3 align="left">Follow me</h3> -->
+ ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-rai-004b35142/)
+ <a href="https://twitter.com/@alokrai0607" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Alok_Rai_Twitter" height="50" width="60" style="margin-right: 10px;" /></a>  
 <a href="https://www.hackerrank.com/saelalok001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerrankAlok" height="50" width="60" style="margin-right: 10px;"/></a>
 <a href="https://leetcode.com/saelalok001/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AlokRaiLeetCode" height="50" width="60" style="margin-right: 10px;"/></a>        
 <a href="https://www.facebook.com/profile.php?id=100041299964391" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Alok_RaiFB" height="50" width="60" style="margin-right: 10px;"/></a>
 <a href="https://www.instagram.com/alokrai6794/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AlokRai_Insta" height="50" width="60" style="margin-right: 10px;"/></a>
+ 
+<h3 align="left">Programing Languages ,Tools & Databases:</h3>
+<br/>
+
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img  src="https://cdn.iconscout.com/icon/free/png-256/css3-2038878-1720091.png?f=avif&w=128" alt="css3" width="40" height="40" margin/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/html-59-225995.png?f=avif&w=128" alt="html5" width="40" height="40" gap="250px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPFRO1lwENHcC2oeVqPSStuSBR-k3AwzhXOg&usqp=CAU" alt="javascript" width="40" height="40" gap="250px"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://tse4.mm.bing.net/th?id=OIP.i41rp67jWgPhhHbxC617lgAAAA&pid=Api&P=0" alt="react" width="40" height="40" gap="250px"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://tse1.mm.bing.net/th?id=OIP.Yr6ftuHXFm6cvu7ZEwlnUgHaHa&pid=Api&P=0" alt="springboot" width="40" height="40" gap="250px"/> </a>
+ </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://tse3.mm.bing.net/th?id=OIP.-UxRkS1XKkPRaBTG5aGVSAHaHa&pid=Api&P=0" alt="git" width="40" height="40" gap="250px"/> </a>
 </p>
-
-# 💻 Tech Stack:
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,maven,aws,hibernate,js,html,css,eclipse,git,github,netlify,vscode)](https://skillicons.dev)
-
-# 📊 GitHub Status:
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alokrai0607&show_icons=true&theme=default&count_private=true"  alt="alokrai0607" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokrai0607&&theme=algolia" alt="alokrai0607"/></p>
+</a> </p>
 <p align="left">
-
-<p align="center">
-<!--    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alokrai0607&show_icons=true&theme=default&count_private=true" /> -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=default" /> 
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokrai0607&theme=default&count_private=true" align="center" />  -->
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=alokrai0607" alt="alokrai0607" />
 </p>
-
-
-# ✍️ Random Dev Quote
-![](https://browserstack.wpenginepowered.com/wp-content/uploads/2022/07/Principles-of-Design-Thinking-700x390.png)
-
-
-
-
-<h3 style="text-align: center;">Stay Happy, Stay Motivated  <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
-
+<p align="left">
+  <img align="center" src=""https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=default"" alt="alokrai0607" />
+</p>
+ 
