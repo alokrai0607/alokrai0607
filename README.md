@@ -32,11 +32,11 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img  src="https://cdn.iconscout.com/icon/free/png-256/css3-2038878-1720091.png?f=avif&w=128" alt="css3" width="40" height="40" margin/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/html-59-225995.png?f=avif&w=128" alt="html5" width="40" height="40" gap="250px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPFRO1lwENHcC2oeVqPSStuSBR-k3AwzhXOg&usqp=CAU" alt="javascript" width="40" height="40" gap="250px"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://tse4.mm.bing.net/th?id=OIP.i41rp67jWgPhhHbxC617lgAAAA&pid=Api&P=0" alt="react" width="40" height="40" gap="250px"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://tse1.mm.bing.net/th?id=OIP.Yr6ftuHXFm6cvu7ZEwlnUgHaHa&pid=Api&P=0" alt="springboot" width="40" height="40" gap="250px"/> </a>
  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://tse3.mm.bing.net/th?id=OIP.-UxRkS1XKkPRaBTG5aGVSAHaHa&pid=Api&P=0" alt="git" width="40" height="40" gap="250px"/> </a>
 </p>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alokrai0607&show_icons=true&theme=default&count_private=true"  alt="alokrai0607" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alokrai0607&show_icons=true&theme=algolia&count_private=true"  alt="alokrai0607" /></p>
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokrai0607&&theme=algolia" alt="alokrai0607"/></p>
 </a> </p>
 <p align="left">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=alokrai0607" alt="alokrai0607" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=alokrai0607&theme=algolia" alt="alokrai0607" />
 </p>
 <p align="left">
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=algolia"/> 
