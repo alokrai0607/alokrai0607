@@ -39,7 +39,13 @@ Here are the technologies I'm proficient in:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=algolia)
 
 ## Random Dev Quote
-> "Stay Happy, Stay Motivated"
+> ![](https://browserstack.wpenginepowered.com/wp-content/uploads/2022/07/Principles-of-Design-Thinking-700x390.png)
+
+
+
+
+<h3 style="text-align: center;">Stay Happy, Stay Motivated  <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
+
 
 ## Conclusion
 Thank you for checking out my README! Feel free to reach out to me via email or connect with me on social media. Stay happy and motivated!
