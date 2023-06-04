@@ -16,8 +16,6 @@ Connect with me on:
 - LinkedIn: [Alok Rai](https://www.linkedin.com/in/alok-rai-004b35142/)
 - Twitter: [@alokrai0607](https://twitter.com/@alokrai0607)
 - LeetCode: [AlokRaiLeetCode](https://leetcode.com/saelalok001/)
-- Facebook: [Alok Rai](https://www.facebook.com/profile.php?id=100041299964391)
-- Instagram: [alokrai6794](https://www.instagram.com/alokrai6794/)
 
 ## Programming Languages, Tools & Databases
 Here are the technologies I'm proficient in:
