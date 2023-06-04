@@ -1,7 +1,7 @@
 # Alok Kumar Rai
 
 ## Introduction
-Hello! My name is Alok and I am a passionate Full Stack Web Developer with strong administrative and problem-solving skills. This README provides an overview of my skills, experiences, and social media profiles.
+Hello! My name is Alok and I am a passionate Java Backend Web Developer with strong administrative and problem-solving skills. This README provides an overview of my skills, experiences, and social media profiles.
 
 ## Personal Information
 - Name: Alok Kumar Rai
