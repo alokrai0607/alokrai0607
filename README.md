@@ -20,11 +20,16 @@ Connect with me on:
 ## Programming Languages, Tools & Databases
 Here are the technologies I'm proficient in:
 
+- HTML(Hyper Text Markup Language)
 - CSS
-- HTML
-- JavaScript
-- Java
+- JavaScript(Programing Language)
+- Java (Programing Language)
+- MySQL(DataBase)
+- Maven(Build Tool)
+- Spring
 - Spring Boot
+- Hibernate(ORM)
+- SpringDataJPA
 - Git
 - VsCode
 - Spring Tool Suite
