@@ -23,9 +23,11 @@ Here are the technologies I'm proficient in:
 - CSS
 - HTML
 - JavaScript
-- React
+- Java
 - Spring Boot
 - Git
+- VsCode
+- Spring Tool Suite
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokrai0607&show_icons=true&theme=algolia&count_private=true)
