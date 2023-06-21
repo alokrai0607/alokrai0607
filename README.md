@@ -35,16 +35,6 @@ Here are the technologies I'm proficient in:
 - Spring Tool Suite (Tool)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokrai0607&show_icons=true&theme=dark&count_private=true)
-
-## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alokrai0607&theme=dark)
-
-## GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=dark)
-
-
-## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokrai0607&show_icons=true&theme=midnight-purple&count_private=true)
 
 ## GitHub Trophies
