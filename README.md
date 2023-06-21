@@ -35,13 +35,13 @@ Here are the technologies I'm proficient in:
 - Spring Tool Suite (Tool)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokrai0607&show_icons=true&theme=highcontrast&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokrai0607&show_icons=true&theme=dark&count_private=true)
 
 ## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alokrai0607&theme=highcontrast)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alokrai0607&theme=dark)
 
 ## GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=highcontrast)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=dark)
 
 ## Random Dev Quote
 > ![](https://browserstack.wpenginepowered.com/wp-content/uploads/2022/07/Principles-of-Design-Thinking-700x390.png)
