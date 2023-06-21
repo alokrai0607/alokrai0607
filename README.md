@@ -43,6 +43,17 @@ Here are the technologies I'm proficient in:
 ## GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=dark)
 
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokrai0607&show_icons=true&theme=midnight-purple&count_private=true)
+
+## GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alokrai0607&theme=onedark)
+
+## GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=midnight-purple)
+
+
 ## Random Dev Quote
 > ![](https://browserstack.wpenginepowered.com/wp-content/uploads/2022/07/Principles-of-Design-Thinking-700x390.png)
 
