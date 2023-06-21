@@ -15,33 +15,33 @@ Connect with me on:
 
 - LinkedIn: [Alok Rai](https://www.linkedin.com/in/alok-rai-004b35142/)
 - Twitter: [@alokrai0607](https://twitter.com/@alokrai0607)
-- LeetCode: [AlokRaiLeetCode](https://leetcode.com/saelalok001/)
+
 
 ## Programming Languages, Tools & Databases
 Here are the technologies I'm proficient in:
 
 - HTML(Hyper Text Markup Language)
-- CSS
+- CSS (Cascading Style Sheets)
 - JavaScript(Programing Language)
 - Java (Programing Language)
 - MySQL(DataBase)
 - Maven(Build Tool)
-- Spring
+- Spring Framework
 - Spring Boot
 - Hibernate(ORM)
 - SpringDataJPA
-- Git
-- VsCode
-- Spring Tool Suite
+- Git  (Tool)
+- VsCode (Tool)
+- Spring Tool Suite (Tool)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokrai0607&show_icons=true&theme=algolia&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokrai0607&show_icons=true&theme=radical&count_private=true)
 
 ## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alokrai0607&theme=algolia)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alokrai0607&theme=radical)
 
 ## GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=algolia)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=radical)
 
 ## Random Dev Quote
 > ![](https://browserstack.wpenginepowered.com/wp-content/uploads/2022/07/Principles-of-Design-Thinking-700x390.png)
