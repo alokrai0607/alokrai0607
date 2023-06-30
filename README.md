@@ -5,6 +5,8 @@ Hello! My name is Alok and I am a passionate Java Backend Web Developer with str
 
 ## Personal Information
 - Name: Alok Kumar Rai
+- From : Varanasi UP.
+- Role: Aspirant Java Backend Developer
 - Email: saelalok001@gmail.com
 
 ## Portfolio
@@ -24,12 +26,20 @@ Here are the technologies I'm proficient in:
 - CSS (Cascading Style Sheets)
 - JavaScript(Programing Language)
 - Java (Programing Language)
+
+  #DataBase
 - MySQL(DataBase)
+
+  #BuildTool
 - Maven(Build Tool)
+
+  #Frameworks
 - Spring Framework
 - Spring Boot
 - Hibernate(ORM)
 - SpringDataJPA
+
+  # Tools
 - Git  (Tool)
 - VsCode (Tool)
 - Spring Tool Suite (Tool)
