@@ -27,22 +27,29 @@ Here are the technologies I'm proficient in:
 - JavaScript(Programing Language)
 - Java (Programing Language)
 
-  #DataBase
+  ## DataBase
 - MySQL(DataBase)
 
-  #BuildTool
+  ## BuildTool
 - Maven(Build Tool)
 
-  #Frameworks
+  ## Frameworks
 - Spring Framework
 - Spring Boot
-- Hibernate(ORM)
 - SpringDataJPA
+
+  ## ORM
+- Hibernate(ORM)
+
 
   # Tools
 - Git  (Tool)
 - VsCode (Tool)
 - Spring Tool Suite (Tool)
+- Intellije Ide
+- PostMan
+- Swagger
+- GitHub
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokrai0607&show_icons=true&theme=midnight-purple&count_private=true)
