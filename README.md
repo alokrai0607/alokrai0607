@@ -10,10 +10,12 @@
 
 <img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
+
+
 ## 💫 About Me:
 🌱 I’m currently enlightening myself with Spring Security.
 <br>
-💬 Ask me    about Java & SpringBoot.
+💬 Ask me about Java & SpringBoot.
 <br>
 👨‍💻 All my projects are available in the [repository section](https://github.com/alokrai0607?tab=repositories).
 <br>
@@ -34,7 +36,7 @@
 
 <br>
 
-## 💻 Tech Stack:
+## 💻 Tech  Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%23ED8B00.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
 ![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
