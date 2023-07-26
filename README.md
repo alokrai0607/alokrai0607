@@ -7,7 +7,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
 
-
 <img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
@@ -36,7 +35,7 @@
 
 <br>
 
-## 💻 Tech  Stack:
+## 💻 TechStack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%23ED8B00.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
 ![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
