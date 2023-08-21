@@ -11,7 +11,7 @@
 
 
 
-## 💫  About Me:
+## 💫  AboutMe:
 🌱 I’m currently enlightening myself with Spring Security.
 <br>
 💬 Ask me about Java & SpringBoot.
@@ -22,7 +22,7 @@
 <br>
 🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1WQAyIQIlABgq4lI2LyWHSRUg6amCNabf/view?usp=sharing).
 <br>
-🤝 I’m also reachable at saelalok001@gmail.com
+🤝 I’m also reachable at saelalok0 01@gmail.com
 <br>
 ⚡ Fun fact, I'm also an avid photographer and quote writer.
 
