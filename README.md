@@ -11,7 +11,7 @@
 
 
 
-## 💫  AboutMe:
+## 💫  About Me:
 🌱 I’m currently enlightening myself with Spring Security.
 <br>
 💬 Ask me about Java & SpringBoot.
@@ -35,7 +35,7 @@
 
 <br>
 
-## 💻 Tech Sta  ck:
+## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%23ED8B00.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
 ![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
