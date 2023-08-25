@@ -66,23 +66,23 @@
 
 <!-- Total Stats -->
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=alokrai0607&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
-<!-- Streak Stats -->
+<!-- StreakStats -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=gotham&hide_border=false)<br/>
 
-<!-- Top Languages -->
+<!-- TopLanguages -->
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alokrai0607&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <br>
 
-## ⚡ Activity Graph
+## ⚡ ActivityGraph
 <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=alokrai0607&theme=gotham&hide_border=true"/>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHubTrophies
 ![](https://github-profile-trophy.vercel.app/?username=alokrai0607&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 <br>
 
-## 🐦 Latest Tweet
+## 🐦 LatestTweet
 [![](https://gtce.itsvg.in/api?username=theaman214)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 <br>
