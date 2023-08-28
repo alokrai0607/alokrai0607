@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+ 👋 +I'     m+Alok Kumar Rai; +Java-Backend + Developer +From + (Varanasi-UP) India.&%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+ 👋 +I'm + Alok Kumar Rai; +Java-Backend + Developer +From + (Varanasi-UP) India.&%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
 
@@ -11,7 +11,7 @@
 
 
 
-## 💫  AboutMe:
+## 💫  About Me:
 🌱 I’m currently enlightening myself with Spring Security.
 <br>
 💬 Ask me about Java & SpringBoot.
@@ -22,20 +22,20 @@
 <br>
 🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1WQAyIQIlABgq4lI2LyWHSRUg6amCNabf/view?usp=sharing).
 <br>
-🤝 I’m also reachable at saelalok0 01@gmail.com
+🤝 I’m also reachable at saelalok001@gmail.com
 <br>
 ⚡ Fun fact, I'm also an avid photographer and quote writer.
 
 <br>
 
-## 🌐  Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-rai-004b35142)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=Portfolio&logoColor=white)](https://alokrai0607.github.io/)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alokrai57720689)&nbsp;
 
 <br>
 
-## 💻 TechStack:
+## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%23ED8B00.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
 ![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
@@ -74,15 +74,15 @@
 
 <br>
 
-## ⚡ ActivityGraph
+## ⚡ Activity Graph
 <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=alokrai0607&theme=gotham&hide_border=true"/>
 
-## 🏆 GitHubTrophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alokrai0607&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 <br>
 
-## 🐦 LatestTweet
+## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=theaman214)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 <br>
