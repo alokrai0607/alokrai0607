@@ -23,8 +23,7 @@
 🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1WQAyIQIlABgq4lI2LyWHSRUg6amCNabf/view?usp=sharing).
 <br>
 🤝 I’m also reachable at saelalok001@gmail.com
-<br>
-⚡ Fun fact, I'm also an avid photographer and quote writer.
+
 
 <br>
 
@@ -35,7 +34,7 @@
 
 <br>
 
-## 💻 Tech Stack
+## 💻 Tech Stack :
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%23ED8B00.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
 ![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
