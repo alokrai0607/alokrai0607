@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+ 👋 +I'm + Alok Kumar Rai; + Full Stack Web + Developer +From + (Varanasi-UP) India.&%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+ 👋 +I'm + Alok Rai; + Full Stack Web + Developer +From + (Varanasi-UP) India.&%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
 
@@ -26,6 +26,7 @@
 
 
 <br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-rai-004b35142)&nbsp;
