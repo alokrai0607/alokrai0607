@@ -1,7 +1,4 @@
-
-
 <br>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+ 👋 +I'm + Alok Rai; + Full Stack Web + Developer +From + (Varanasi-UP) India.&%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -9,12 +6,10 @@
 
 <img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-
-
 ## 💫  About Me:
 🌱 I’m currently enlightening myself with Spring Framework.
 <br>
-💬 Ask me about HTML5 , CSS3 , JavaScript ,Java(Core + Advance), SpringBoot & MySQL.
+💬 Ask me about HTML5 , CSS3 , JavaScript ,Java(Core + Advance), SpringBoot , MySQL & ChatGPT.
 <br>
 👨‍💻 All my projects are available in the [repository section](https://github.com/alokrai0607?tab=repositories).
 <br>
@@ -67,7 +62,6 @@
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=alokrai0607&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
 <!-- StreakStats -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alokrai0607&theme=gotham&hide_border=false)<br/>
-
 <!-- TopLanguages -->
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alokrai0607&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
