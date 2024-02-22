@@ -9,7 +9,7 @@
 ## 💫  About Me:
 🌱 I’m currently enlightening myself with Spring Framework.
 <br>
-💬 Ask me about HTML5 , CSS3 , JavaScript ,Java(Core + Advance), SpringBoot , MySQL & ChatGPT.
+💬 Ask me about HTML5 , CSS3 , JavaScript ,Java(Core + Advance), SpringBoot ,Python ,  MySQL & ChatGPT.
 <br>
 👨‍💻 All my projects are available in the [repository section](https://github.com/alokrai0607?tab=repositories).
 <br>
