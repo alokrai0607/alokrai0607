@@ -15,7 +15,7 @@
 <br>
 👨🏻‍🎓 Have a look at my [Portfolio](https://alokrai0607.github.io/).
 <br>
-🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1WQAyIQIlABgq4lI2LyWHSRUg6amCNabf/view?usp=sharing).
+🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1Qdwd40KmkByDwamw2tOvhtXyXZC9T2hE/view?usp=sharing).
 <br>
 🤝 I’m also reachable at saelalok001@gmail.com
 
