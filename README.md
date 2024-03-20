@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-## 💫  About Me ::
+## 💫  About Me 
 🌱 I’m currently enlightening myself with Spring Framework.
 <br>
 💬 Ask me about HTML5 , CSS3 , JavaScript ,Java(Core + Advance), SpringBoot ,Python ,  MySQL & ChatGPT.
@@ -23,7 +23,7 @@
 <br>
 
 
-## 🌐 Socials ::
+## 🌐 Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-rai-004b35142)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=Portfolio&logoColor=white)](https://alokrai0607.github.io/)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alokrai57720689)&nbsp;
